@@ -2,4 +2,4 @@
 
 output
 
-![seecs](Seecs.jpg)
+![seecs](Seecs.JPG)
